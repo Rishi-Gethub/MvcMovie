@@ -41,4 +41,28 @@ This task made me to upside down where it took lot of time where i have added un
 I have generated Edit, Details and Delete links by Core MVC.
 By the end of this task i have processed the POST Request.
 By the end of this task i have made the edit, delete and details links Successfully.
+...........................
+
+
+2024-01-23
+1425
+
+Task: 7
+I have updated the MoviesController.cs with the given code.
+I have updates Index method with the id parameter.
+To test how to pass the route band ID parameter i have changed the code with the given code.
+I have update Index.cshtml for adding search by genre to the index view.
+
+Task: 8
+Added a Rating Property to the Movie Model.
+I have editted Rating field in Index.cshtml.
+I have entered the given commands in PMC.
+I got rating Coloumn in the webpage successfully.
+
+2024-01-30
+1830
+
+Task: 9
+I have finished to get required job done.
+
 
