@@ -66,4 +66,10 @@ Task: 9
 I have added rules for the index using given codes as per file.
 I have finished to get required job done.
 
+2024-02-03
+1842
+
+Task: 10
+I have checked the details and deleted method of the ASP.NET Core app.
+At last the Project was successfull.
 
