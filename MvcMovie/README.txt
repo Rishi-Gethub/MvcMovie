@@ -63,6 +63,7 @@ I got rating Coloumn in the webpage successfully.
 1830
 
 Task: 9
+I have added rules for the index using given codes as per file.
 I have finished to get required job done.
 
 
